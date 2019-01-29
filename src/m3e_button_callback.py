@@ -6,9 +6,10 @@ Example showing for tkinter and ttk:
   -- How to associate a widget (here, a ttk.Button)
        with a CALLBACK function that is a LAMBDA (anonymous) function.
 
-Authors: David Mutchler, Mark Hays, and their colleagues
-         at Rose-Hulman Institute of Technology.
-"""
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
+         Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
+         and PUT_YOUR_NAME_HERE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import tkinter
 from tkinter import ttk
@@ -46,7 +47,7 @@ def do_stuff():
 
     print(random_word)
 
-########################################################################
+###############################################################################
 #
 # EXPLANATION of the above:
 #
@@ -109,10 +110,10 @@ def do_stuff():
 #      more like a DEF and gives a bit more space on a line
 #      for the body of the lambda expression.
 #
-########################################################################
+###############################################################################
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()

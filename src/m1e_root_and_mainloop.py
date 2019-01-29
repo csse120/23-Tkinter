@@ -5,10 +5,10 @@ Example showing for tkinter and ttk:
 
 A window should pop up.  That's all for this demo.
 
-Authors: David Mutchler, Mark Hays, Michael Wollowswki, Matt Boutell,
-         Chandan Rupakheti, Claude Anderson and their colleagues
-         at Rose-Hulman Institute of Technology.
-"""
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
+         Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
+         and PUT_YOUR_NAME_HERE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import tkinter
 from tkinter import ttk  # Necessary in all but this trivial example.
@@ -21,7 +21,7 @@ def main():
     print('Done with the Event Loop')  # Note when this line runs.
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()

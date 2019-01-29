@@ -4,9 +4,10 @@ Example showing for tkinter and ttk:
   -- ttk.Frame - a container for other Widgets
   -- ttk.Button - a button in the ttk style
 
-Authors: David Mutchler, Mark Hays, and their colleagues
-         at Rose-Hulman Institute of Technology.
-"""
+Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
+         Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
+         and PUT_YOUR_NAME_HERE.
+"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import tkinter
 from tkinter import ttk
@@ -23,7 +24,7 @@ def main():
 
     root.mainloop()
 
-########################################################################
+###############################################################################
 #
 # EXPLANATION of the above:
 #
@@ -65,10 +66,10 @@ def main():
 #        way, but nothing else happens.  That's because we haven't told
 #        tkinter/ttk what to do when the Forward button is pressed.
 #        You'll see how to do that in the next examples.
-########################################################################
+###############################################################################
 
 
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
-# ----------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 main()
